@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio.csproj",
+      "projectUniqueName": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/Blazor-Porfolio.csproj",
       "projectName": "Blazor-Porfolio",
-      "projectPath": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio.csproj",
+      "projectPath": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/Blazor-Porfolio.csproj",
       "packagesPath": "/Users/antoinesfeir/.nuget/packages/",
-      "outputPath": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/",
+      "outputPath": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/antoinesfeir/.nuget/NuGet/NuGet.Config"

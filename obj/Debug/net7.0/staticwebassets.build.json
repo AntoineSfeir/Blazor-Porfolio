@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0IZrBj5MAAUwhE7QijSt+seVpuCsfyAJ7uLc+5kqg3A=",
+  "Hash": "blLM9LccyDgRQXJTKNbi60bXRk0FJWpwgdsb7xMWgY8=",
   "Source": "Blazor-Porfolio",
   "BasePath": "_content/Blazor-Porfolio",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Blazor-Porfolio/wwwroot",
       "Source": "Blazor-Porfolio",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/bundle/Blazor-Porfolio.styles.css",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/bundle/Blazor-Porfolio.styles.css",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "Blazor-Porfolio.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/bundle/Blazor-Porfolio.styles.css"
+      "OriginalItemSpec": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/bundle/Blazor-Porfolio.styles.css"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/Blazor-Porfolio.bundle.scp.css",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/Blazor-Porfolio.bundle.scp.css",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "Blazor-Porfolio.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/Blazor-Porfolio.bundle.scp.css"
+      "OriginalItemSpec": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/Blazor-Porfolio.bundle.scp.css"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/bg2.png",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/bg2.png",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "bg2.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/bg2.png"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/README.md",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/site.css",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/site.css",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/favicon.png",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/favicon.png",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/favicon.png"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/github_logo.jpg",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/github_logo.jpg",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "github_logo.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/github_logo.jpg"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/linked-in_logo.png",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/linked-in_logo.png",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "linked-in_logo.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/linked-in_logo.png"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/logo_transparent.png",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/logo_transparent.png",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "logo_transparent.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/logo_transparent.png"
     },
     {
-      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/phone_logo.png",
+      "Identity": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/phone_logo.png",
       "SourceId": "Blazor-Porfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/",
+      "ContentRoot": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/",
       "BasePath": "_content/Blazor-Porfolio",
       "RelativePath": "phone_logo.png",
       "AssetKind": "All",

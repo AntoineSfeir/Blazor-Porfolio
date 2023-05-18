@@ -1,79 +1,79 @@
 {
   "Files": [
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/Blazor-Porfolio.bundle.scp.css",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/obj/Debug/net7.0/scopedcss/projectbundle/Blazor-Porfolio.bundle.scp.css",
       "PackagePath": "staticwebassets/Blazor-Porfolio.bundle.scp.css"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/bg2.png",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/bg2.png",
       "PackagePath": "staticwebassets/bg2.png"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/FONT-LICENSE",
       "PackagePath": "staticwebassets/css/open-iconic"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/ICON-LICENSE",
       "PackagePath": "staticwebassets/css/open-iconic"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/README.md",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/README.md",
       "PackagePath": "staticwebassets/css/open-iconic/README.md"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/css/site.css",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/favicon.png",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/github_logo.jpg",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/github_logo.jpg",
       "PackagePath": "staticwebassets/github_logo.jpg"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/linked-in_logo.png",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/linked-in_logo.png",
       "PackagePath": "staticwebassets/linked-in_logo.png"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/logo_transparent.png",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/logo_transparent.png",
       "PackagePath": "staticwebassets/logo_transparent.png"
     },
     {
-      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/wwwroot/phone_logo.png",
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/phone_logo.png",
       "PackagePath": "staticwebassets/phone_logo.png"
     },
     {
