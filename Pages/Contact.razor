@@ -2,8 +2,6 @@
 
 <PageTitle>Contact</PageTitle>
 
-<h1>Contact</h1>
-
 <style>
     .contact-container {
         text-align: center;
@@ -17,14 +15,26 @@
         display: flex;
         justify-content: center;
         margin-top: 20px;
+        transition: transform 0.3s ease;
     }
 
     .contact-icons a {
         margin-right: 20px;
+        transition: color 0.3s ease;
+    }
+
+    .contact-icons:hover {
+        transform: scale(1.05);
+    }
+
+    a:hover {
+        color: #ff0000; 
     }
 </style>
 
 <div class="contact-container">
+    <h1>Contact</h1>
+    
     <div class="contact-details">
         <b>Email:</b> <a href="mailto:antoinegsfeir@gmail.com">antoinegsfeir@gmail.com</a><br>
         <b>Phone:</b> <a href="tel:3377812292">337-781-2292</a>

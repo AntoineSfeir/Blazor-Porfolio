@@ -1,3 +1,94 @@
 @page "/projects"
 
-<h1>Projects</h1>
+
+<p>
+    <table class="table custom-table">
+        @foreach (var project in projects)
+        {
+            <tr>
+                <td><b>@project.Title</b></td>
+                <td>@project.Description</td>
+                <td><a class="project-link" href="@project.Url">Visit Project</a></td>
+            </tr>
+        }
+    </table>
+</p>
+
+
+<style>
+    .custom-table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .custom-table td, .custom-table th {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .custom-table th {
+        background-color: #f2f2f2;
+    }
+
+    .project-link {
+        color: blue;
+        text-decoration: none;
+    }
+
+    .project-link:hover {
+        text-decoration: underline;
+    }
+</style>
+
+@code {
+    IList<Project> projects;
+
+    protected override async Task OnInitializedAsync()
+    {
+        projects = await FetchProjects();
+    }
+
+    private Task<IList<Project>> FetchProjects()
+    {
+        IList<Project> projects = new List<Project>();
+
+        // Example synchronous logic
+        projects.Add(new Project
+        {
+            Title = "QuantU",
+            Description = "Designed and prototyped an online stock market trading application using a .NET framework in C# that facilitates paper trading and machine learning analysis for a class project. I specialized in creating the machine learning model in Python that generates a thirty-day forecast of any selected company’s stock prices. I also built and connected the database using MongoDB to our .NET server to keep track of trader login information. And finally, I also contributed to building the front-end UI using JavaScript, CSS, and HTML. ",
+            Url = "https://github.com/PeyPeyPG/SWMG",
+        });
+
+        projects.Add(new Project
+        {
+            Title = "LSU ML Research",
+            Description = "Created machine learning models in Python such as Long Short-Term Memory (LSTM) neural networks for modeling sequential data.",
+            Url = "https://github.com/AntoineSfeir/mlResearch"
+        });
+
+        projects.Add(new Project
+        {
+            Title = "Space Invaders Game",
+            Description = "Recreated Space Invaders with my spin which gives a classical arcade experience using P5.js, Tone.js, and a controller that was built with an Arduino.",
+            Url = "https://medium.com/@antoinegsfeir/final-project-documentation-ecd4500d96f"
+        });
+
+         projects.Add(new Project
+        {
+            Title = "Recognizing Handwritten Digits using ML",
+            Description = "Created a neural network in Python using only PANDAS and NUMPY to recognize handwritten digits.",
+            Url = "https://www.kaggle.com/code/antoinesfeir/minst/edit"
+        });
+
+        return Task.FromResult(projects);
+    }
+
+    public class Project
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string Url { get; set; }
+    }
+}

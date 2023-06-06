@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets/Blazor-Porfolio.bundle.scp.css"
     },
     {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/Math_Poster.png",
+      "PackagePath": "staticwebassets/Math_Poster.png"
+    },
+    {
       "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/bg2.png",
       "PackagePath": "staticwebassets/bg2.png"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/css/bootstrap/.DS_Store"
     },
     {
       "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css",
@@ -15,6 +31,302 @@
     {
       "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/LICENSE",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/README.md",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/README.md"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/bulma.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/bulma.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/css/bulma-rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/css/bulma-rtl.css"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/css/bulma-rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/css/bulma-rtl.css.map"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/css/bulma-rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/css/bulma-rtl.min.css"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/css/bulma.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/css/bulma.css"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/css/bulma.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/css/bulma.css.map"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/css/bulma.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/css/bulma.min.css"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/package.json",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/package.json"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/base/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/base/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/base/animations.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/base/animations.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/base/generic.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/base/generic.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/base/helpers.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/base/helpers.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/base/minireset.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/base/minireset.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/breadcrumb.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/breadcrumb.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/card.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/card.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/dropdown.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/dropdown.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/level.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/level.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/media.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/media.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/menu.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/menu.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/message.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/message.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/modal.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/modal.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/navbar.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/navbar.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/pagination.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/pagination.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/panel.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/panel.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/components/tabs.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/components/tabs.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/box.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/box.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/button.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/button.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/container.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/container.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/content.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/content.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/form.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/form.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/icon.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/icon.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/image.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/image.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/notification.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/notification.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/other.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/other.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/progress.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/progress.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/table.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/table.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/tag.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/tag.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/elements/title.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/elements/title.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/checkbox-radio.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/checkbox-radio.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/file.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/file.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/input-textarea.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/input-textarea.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/select.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/select.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/shared.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/shared.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/form/tools.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/form/tools.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/grid/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/grid/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/grid/columns.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/grid/columns.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/grid/tiles.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/grid/tiles.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/color.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/color.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/flexbox.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/flexbox.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/float.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/float.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/other.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/other.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/overflow.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/overflow.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/position.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/position.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/spacing.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/spacing.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/typography.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/typography.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/helpers/visibility.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/helpers/visibility.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/layout/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/layout/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/layout/footer.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/layout/footer.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/layout/hero.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/layout/hero.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/layout/section.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/layout/section.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/_all.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/_all.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/animations.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/animations.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/controls.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/controls.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/derived-variables.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/derived-variables.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/extends.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/extends.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/functions.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/functions.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/initial-variables.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/initial-variables.sass"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/bootstrap/bulma/sass/utilities/mixins.sass",
+      "PackagePath": "staticwebassets/css/bootstrap/bulma/sass/utilities/mixins.sass"
     },
     {
       "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/css/open-iconic/FONT-LICENSE",
@@ -75,6 +387,10 @@
     {
       "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/phone_logo.png",
       "PackagePath": "staticwebassets/phone_logo.png"
+    },
+    {
+      "Id": "/Users/antoinesfeir/Documents/code/vsProject/Blazor-Porfolio/Blazor-Porfolio/wwwroot/quantu_logo.png",
+      "PackagePath": "staticwebassets/quantu_logo.png"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Blazor-Porfolio.Microsoft.AspNetCore.StaticWebAssets.props",
